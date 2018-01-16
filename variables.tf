@@ -1,3 +1,7 @@
+variable "security_group" {
+  default = "Unknown"
+}
+
 variable "project" {
   default = "Unknown"
 }
